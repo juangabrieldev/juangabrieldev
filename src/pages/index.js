@@ -28,7 +28,6 @@ const IndexPage = () => (
       >
         Hi, I am { " " }
         <span className="text-purple-500">Gab</span>
-        .
       </h1>
       <h3
         className="
@@ -42,7 +41,7 @@ const IndexPage = () => (
         data-sal-duration="600"
         data-sal-easing="ease"
       >
-        A front-end developer and UI designer
+        A front-end developer
       </h3>
     </main>
   </div>
