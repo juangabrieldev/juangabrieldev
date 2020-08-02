@@ -20,6 +20,7 @@ const IndexPage = () => (
       <meta name="twitter:title" content="Juan Gabriel Palarpalar | Software Engineer"/>
       <meta name="twitter:description" content="Juan Gabriel Palarpalar is a software engineer based in Manila, Philippines. He's currently doing front-end web development and UI/UX design."/>
       <meta name="twitter:image" content=""/>
+      <meta name="google-site-verification" content="9uL_paXtKdOMI0XgEEVnQmnBB_WNQ08TEQ6z6d-qVN0"/>
     </Helmet>
     <div>
       <main
