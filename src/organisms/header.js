@@ -23,7 +23,13 @@ const itemList = [
 
 const Header = () => {
   return (
-    <header className="fixed top-0 w-full">
+    <header
+      className="fixed top-0 w-full"
+      data-sal="fade"
+      data-sal-delay="0"
+      data-sal-duration="400"
+      data-sal-easing="ease"
+    >
       <nav className="p-8">
         <div className="logo">
 
