@@ -23,7 +23,7 @@ const itemList = [
 
 const Header = () => {
   return (
-    <header>
+    <header className="fixed top-0 w-full">
       <nav className="p-8">
         <div className="logo">
 
