@@ -11,6 +11,9 @@ module.exports = {
       },
       fontSize: {
         '7xl': '5rem'
+      },
+      transitionProperty: {
+        'color': 'color'
       }
     },
   },
