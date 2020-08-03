@@ -19,10 +19,6 @@ const itemList = [
     label: "Contact",
     link: "#contact"
   },
-  {
-    label: "Resume",
-    link: "#resume"
-  },
 ]
 
 const Header = () => {
@@ -37,22 +33,14 @@ const Header = () => {
             itemList.map((item, index, array) => (
               <li key={item.label}>
                 <Link
-                  className={cc([
-                    "rounded",
-                    "duration-100",
-                    "p-3",
-                    "text-gray-500",
-                    "transition",
-                    "hover:text-white",
-                    (index === array.length -1) ?
-                    [
-                      "border-2",
-                      "border-purple-900",
-                      "hover:bg-purple-900",
-                      "ml-4"
-                    ].join(" ") :
-                    ""
-                  ])}
+                  className="
+                    rounded
+                    duration-100
+                    p-3
+                    text-gray-600
+                    transition
+                    hover:text-white
+                  "
                   to={item.link}
                 >
                   { item.label }
