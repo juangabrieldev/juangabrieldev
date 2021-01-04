@@ -101,9 +101,9 @@ const Landing = () => (
           duration-100
           transition
         "
-        href="mailto:juangabrielpalarpalar@gmail.com"
+        href="mailto:hello@juangabrieldev.com"
       >
-        Say hello
+        Say Hello
       </a>
     </div>
   </section>
