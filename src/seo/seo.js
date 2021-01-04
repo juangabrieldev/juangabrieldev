@@ -9,7 +9,7 @@ const Seo = ({ children }) => (
             <meta itemprop="name" content="Juan Gabriel Palarpalar | Software Engineer"/>
             <meta itemprop="description" content="Juan Gabriel Palarpalar is a software engineer based in Manila, Philippines. He's currently doing front-end web development and UI/UX design."/>
             <meta itemprop="image" content=""/>
-            <meta property="og:url" content="https://juangabrieldev.netlify.app"/>
+            <meta property="og:url" content="https://juangabrieldev.com"/>
             <meta property="og:type" content="website"/>
             <meta property="og:title" content="Juan Gabriel Palarpalar | Software Engineer"/>
             <meta property="og:description" content="Juan Gabriel Palarpalar is a software engineer based in Manila, Philippines. He's currently doing front-end web development and UI/UX design."/>
